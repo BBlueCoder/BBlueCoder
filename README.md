@@ -54,7 +54,7 @@ My journey began when I decided to build my blog website. At a very young age I 
 
 As my skills progressed, I turned my attention to mobile app development and learned Java. I was over the moon with joy when I built my first android app. With a natural talent for problem-solving and a passion for learning, I continued to explore the world of software development, constantly seeking new challenges and pushing the boundaries of what's possible.
     
-I got a high school degree in physics, then I got a diploma of software development at ISTA NTIC, Tangier. My first job was a full-stack developer, I was responsible to maintain and build scalable and robust web applications using Node.js, Angular and PostgreSql. At the same time I have been working as a freelancer Android Developer, I began building apps using Java then I switched to kotlin.
+I got a high school degree in physics, then I got a diploma of software development at ISTA NTIC, Tangier. My first job was a full-stack developer, I was responsible to maintain and build scalable and robust web applications using Node.js, Angularn AWS and PostgreSql. At the same time I have been working as a freelancer Android Developer, I began building apps using Java then I switched to kotlin.
 
 I have built apps for my personal goals while learning the best practices, challenging myself and continuously learning new technologies. 
 </details>
