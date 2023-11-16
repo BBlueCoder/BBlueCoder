@@ -40,6 +40,7 @@
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
 <br>
 
@@ -49,20 +50,25 @@
 #
 
 <details>
- <summary><h3>👨‍💻 My Journey</h3></summary>
-My journey began when I decided to build my blog website. At a very young age I wasn't familiar with programming, but I was curious enough to start digging about how websites work and how to build them. After I built my first template for my blog using HTML and CSS I haven't looked back since. My love for coding only grew stronger as I discovered other languages and technologies.
+ <summary><h3>👨‍💻 My Experience</h3></summary>
+<p>My journey in the realm of software development commenced as a Freelance Android Developer. During this phase, I crafted native Android applications tailored to the specific needs of private clients. This experience not only honed my proficiency in the Android ecosystem but also equipped me with comprehensive skills in overseeing the entire development process. My responsibilities spanned from conceptualizing and designing the user interface to formulating a clean and scalable architecture, coding the application, and rigorously testing its functionality.</p>
 
-As my skills progressed, I turned my attention to mobile app development and learned Java. I was over the moon with joy when I built my first android app. With a natural talent for problem-solving and a passion for learning, I continued to explore the world of software development, constantly seeking new challenges and pushing the boundaries of what's possible.
-    
-I got a high school degree in physics, then I got a diploma of software development at ISTA NTIC, Tangier. My first job was a full-stack developer, I was responsible to maintain and build scalable and robust web applications using Node.js, Angularn AWS and PostgreSql. At the same time I have been working as a freelancer Android Developer, I began building apps using Java then I switched to kotlin.
+<p>
+  Transitioning from a specialized focus, I embraced the role of a Full-Stack Developer. In this capacity, I contributed to the creation of web applications intended for government use. My impact was notable as I enhanced the backend server through the implementation of an efficient caching mechanism. Moreover, I undertook the challenge of conceiving a new web application from its inception, ensuring that it adhered to the highest standards of quality while boasting a scalable and robust codebase.
+</p>
 
-I have built apps for my personal goals while learning the best practices, challenging myself and continuously learning new technologies. 
+<p>
+  At present, I continue to thrive as a Freelance Software Developer, leveraging my expertise to create dynamic solutions. My repertoire includes the development of Android applications, backend servers, and complete web applications. This multifaceted journey has enriched my skill set, enabling me to tackle diverse challenges in the ever-evolving landscape of software development.
+</p>
+
 </details>
 
 I'm currently working on [Cloud-Castle-Android](https://github.com/BBlueCoder/Cloud-Castle-Android), it is an android app that will be communicating with [Cloud-Castle-API](https://github.com/BBlueCoder/Cloud-Castle-API)  
 
 ## Contact me
-You can reach me at my email abdellah.ibnelazraq@gmail.com
+You can follow me on [Twitter](https://twitter.com/BBlueCoder) or [Medium](https://bbluecoder.medium.com/) where I share my knowledge in software development.
+
+You can reach me at my email abdellah.ibnelazraq@gmail.com 
 
 
 
