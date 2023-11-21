@@ -63,7 +63,7 @@
 
 </details>
 
-I'm currently working on [Cloud-Castle-Android](https://github.com/BBlueCoder/Cloud-Castle-Android), it is an android app that will be communicating with [Cloud-Castle-API](https://github.com/BBlueCoder/Cloud-Castle-API)  
+I'm currently building a chat server on top of TCP using Node.js
 
 ## Contact me
 You can follow me on [Twitter](https://twitter.com/BBlueCoder) or [Medium](https://bbluecoder.medium.com/) where I share my knowledge in software development.
