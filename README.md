@@ -63,7 +63,7 @@
 
 </details>
 
-I'm currently building a chat server on top of TCP using Node.js
+I'm currently building a lighweight web framework on Node.js.
 
 ## Contact me
 You can follow me on [Twitter](https://twitter.com/BBlueCoder) or [Medium](https://bbluecoder.medium.com/) where I share my knowledge in software development.
