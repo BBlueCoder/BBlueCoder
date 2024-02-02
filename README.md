@@ -26,6 +26,7 @@
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="left" width="30px" style="padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
